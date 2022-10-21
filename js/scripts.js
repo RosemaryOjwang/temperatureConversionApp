@@ -1,6 +1,6 @@
 //business logic
 function fahrenheitToCelsius(temperature) {
-return (temperature - 32) * 5 / 9;
+  return (temperature - 32) * 5 / 9;
 }
 
 function celsiusToFahrenheit(temperature) {
